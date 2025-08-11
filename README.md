@@ -28,24 +28,26 @@ Private Sub Workbook_Open()
 End Sub
 Note: Enable macros in Excel to allow this automation to run.
 
-🚀 Key Insights
-Majority of cases fall under "Slight" severity
+## 🚀 Key Insights
+- Majority of cases fall under "Slight" severity  
+- Fatal accidents are less frequent but critical  
+- Casualty trends vary by road type and time of day  
+- Dashboards provide actionable insights for road safety measures  
 
-Fatal accidents are less frequent but critical
+## 📸 Sample Visuals
+*(Add screenshots of your Excel dashboards here)*
 
-Casualty trends vary by road type and time of day
+## 🔧 How to Use
+1. Download the `.xlsx` file.  
+2. Open in Microsoft Excel (enable macros for VBA functionality).  
+3. Explore pivot tables, charts, and dashboards for interactive analysis.  
 
-Dashboards provide actionable insights for road safety measures
+## 📥 Download Project File
+Due to GitHub file size limits, the Excel file is hosted on Google Drive.  
+[Click here to download the Road Accident Data Excel file]https://drive.google.com/drive/folders/1D7fBrEsY5BwwYUyWhr_20yNqXZx4ku6b
 
-📸 Sample Visuals
-(Add screenshots of your Excel dashboards here)
+---
 
-🔧 How to Use
-Download the .xlsx file.
-
-Open in Microsoft Excel (enable macros for VBA functionality).
-
-Explore pivot tables, charts, and dashboards for interactive analysis.
-
-Author: Kajal Panigrahi
+**Author:** Kajal Panigrahi  
+**Skills Demonstrated:** Data Analysis | Excel Dashboarding | Data Visualization | KPI Reporting | VBA Automation
 
